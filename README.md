@@ -17,7 +17,7 @@ What I believe I did particularly well was organizing the various UML diagrams. 
 
 ### If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 
-I believe I should keep working on the UML diagrams. Specifically, I can enhance the UML Class Diagram by adding methods for each class. Additionally, I'd like to revisit the UML Use Case Diagram for a second pass. I think I can improve its appearance with better graphics and provide more detailed information about each case, rather than simply referring to just saying CRUD this and CRUD that... which might sound unclear.
+I believe I should keep working on the UML diagrams. Specifically, I can enhance the UML Class Diagram by adding methods for each class. Additionally, I'd like to revisit the UML Use Case Diagram for a second pass. I think I can improve its appearance with better graphics and provide more detailed information about each case, rather than simply  saying CRUD this and CRUD that... which might sound unclear.
 
 ### How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
 
