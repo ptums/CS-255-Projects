@@ -1,7 +1,7 @@
 # CS-255 Projects
 
 ## Overview
-This repository contains the business requirmenets document from Project 1# and the system design document from Project 2#. These documents demonstrate your ability to collect requirements from the customer and design a system that meets those needs.
+This repository contains the business requirmenets document from Project 1# and the system design document from Project 2#. These documents demonstrate my ability to collect requirements from the customer and design a system that meets those needs.
 
 ## Reflection
 
